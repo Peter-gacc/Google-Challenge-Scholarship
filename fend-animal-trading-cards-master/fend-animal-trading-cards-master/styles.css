@@ -1,0 +1,39 @@
+/* add your CSS here */
+/* add your CSS here */
+h3 {
+  font-size: 30px;
+  font-family:serif;
+  font-weight: bold;
+  border: 2px dotted red;
+  width: 120px;
+  padding: 2px;
+  text-align: center;
+}
+.fact {
+  font-style: italic;
+}
+.listItems {
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+}
+.card {
+  border: solid;
+  border-width: medium;
+  padding: 10px;
+  width: 300px;
+}
+.animalDetails {
+  border: solid;
+  border-width: thin;
+  padding: 15px;
+}
+img {
+  padding: 5px;
+  /*width: 200px;*/
+  border: dashed red;
+}
+p {
+  text-align: justify;
+}
